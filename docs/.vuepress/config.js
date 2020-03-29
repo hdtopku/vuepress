@@ -27,7 +27,6 @@ module.exports = {
       },
     ]
   ],
-  sidebar: "auto",
   theme: "reco",
   themeConfig: {
     author: "淘精灵",
@@ -64,5 +63,5 @@ module.exports = {
       }
     ]
   ],
-  port: 10606
+  port: 1688
 };
