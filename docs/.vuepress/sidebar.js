@@ -6,7 +6,9 @@ const sidebarCn = [
     children: [
       ["/Jet/cdkey", "激活码激活"],
       ["/Jet/account", "账号激活"],
-      ["/Jet/server", "注册服务器激活"]
+      ["/Jet/server", "注册服务器激活"],
+      ["/Jet/codes", "历史激活码"],
+      ["/Jet/download", "全家桶最新下载地址"]
     ]
   }
 ];

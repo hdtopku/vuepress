@@ -2,7 +2,7 @@ const sidebar = require("./sidebar");
 
 module.exports = {
   title: '淘精灵',
-  description: '高效的产品激活',
+  description: '专注互联网分享',
   plugins: [
     ["@vuepress/back-to-top"],
     ["@vuepress/nprogress"],
