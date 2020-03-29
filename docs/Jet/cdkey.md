@@ -13,6 +13,8 @@ isShowComments: false
 
 # 全家桶免费激活教程
 
+<img style="width:20%;cursor:pointer;" src="https://i.loli.net/2019/11/23/62nsPguLTbNShwr.jpg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e', '_blank');" /><img style="width:5%;cursor:pointer;" src="https://i.loli.net/2019/11/23/U3qbMEuC9n6YBRA.png" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e', '_blank');" /><a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" target="_blank">323784710</a>
+
 ## <font color="red">一、激活码激活</font>
 
 #### <u>[👉 账号激活](/Jet/account "激活码激活")</u>
