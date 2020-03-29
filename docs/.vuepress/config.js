@@ -27,10 +27,6 @@ module.exports = {
       notify: true,
       visitor: true
     },
-    record: 'ICP 备案文案',
-    recordLink: 'ICP 备案指向链接',
-    cyberSecurityRecord: '公安部备案文案',
-    cyberSecurityLink: '公安部备案指向链接',
     // 项目开始时间，只填写年份
     startYear: '2017'
   },
