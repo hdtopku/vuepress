@@ -7,25 +7,7 @@ module.exports = {
     ["@vuepress/back-to-top"],
     ["@vuepress/nprogress"],
     ["@vuepress/medium-zoom",true],
-    "@vuepress-reco/vuepress-plugin-comments",
-    [
-      'redirect',
-      {
-        // 提供多语言重定向功能
-        // 它会自动从 `/foo/bar/` 定向到 `/:locale/foo/bar/`，如果对应的页面存在
-        redirectors: [
-          // 定制化重定向
-          {
-            base: '/', // 将 `/my-plugins/` 自动重定向到某个子页面
-            storage: true, // 保存最后一次访问的结果到 `localStorage`，供下次重定向使用
-            alternative: [
-              // 提供一个备选列表，如果都找不到就只能 404 Not Found 喽
-              '/Jet/cdkey'
-            ],
-          },
-        ],
-      },
-    ]
+    "@vuepress-reco/vuepress-plugin-comments"
   ],
   theme: "reco",
   themeConfig: {
@@ -63,5 +45,5 @@ module.exports = {
       }
     ]
   ],
-  port: 1688
+  port: 10606
 };
