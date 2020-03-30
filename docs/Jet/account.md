@@ -2,9 +2,9 @@
 title: Pycharm|PHPStorm|WebStorm|Goland Clion intellij idea全家桶 通用教程 License Server 激活教程
 meta:
   - name: description
-    content: 最新版idea全家桶激活码jetbrains稳定账号激活教程
+    content: IntelliJ IDEA最新2020-2021激活方法,IDEA官方正版激活,最新版idea全家桶激活码jetbrains稳定账号激活教程
   - name: keywords
-    content: intellij|Pycharm|PHPStorm|Goland|Clion|idea|激活码|全家桶|账号激活|通用教程|License|Server|激活教程
+    content: intellij|Pycharm|PHPStorm|Goland|Clion|idea|激活码|全家桶|账号激活|通用教程|License|Server|激活教程|IDEA最新2020-2021激活方法
 date: 2020-03-28
 isShowComments: false
 ---
@@ -28,6 +28,43 @@ isShowComments: false
 </div>
 
 ## <font color="red">二、通过稳定的独立账号激活</font>
+
+### 1、从IntelliJ IDEA官方下载http://www.jetbrains.com/idea/
+
+### 2、安装后直接填入账号密码激活，有效期至2021年1月29日。
+
+>账号：20202156 <br>
+密码：My1562020
+
+### 3、填入账号密码后，点击activate激活即可。
+
+<img src="http://md.taojingling.cn/20200330150720.png">
+
+### 4、点击Close,然后再次查看就已经显示激活了。
+
+### 5、激活失败？
+
+激活失败请检查如下文件：
+
+1. vmoptions文件，是否包含`-javaagent:xxx`,如有，请删除此行。
+
+```
+WIN:
+具体路径根据自己的软件名字找，别问我为什么没有IntelliJIdea2019.3这个路径,我只是示例~
+C:\Users\你的名字\.IntelliJIdea2019.3\config\idea.vmoptions
+
+MAC:
+/Users/你的名字/Library/Preferences/IntelliJIdea2019.2/idea.vmoptions
+```
+
+2. 检查host文件是否包含关于jetbrains的代理，如有，请删除此行，示例：<br>
+`127.0.0.0 jetbrains.com 0.0.0.0 jetbrains.xxxx`
+
+3. 重启软件试着激活。
+
+### 6、如账号密码失效，请进群联系群主，群号：<a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">323784710</a>
+
+<i style="color:gray;">这是IntelliJ 全家桶账号,仅供学习测试时使用,请大家积极支持正版。</i> 
 
 #### [→激活码激活](www.baidu.com "激活码激活")
 

@@ -35,24 +35,24 @@ isShowComments: false
 
 #### <u>[👉 注册服务器激活](/Jet/server "注册服务器激活")</u>
 
-**1、打开Jetbrains软件，如：PHPstorm、IntelliJ IDEA、Golang、Pycharm等**  
+### 1、打开Jetbrains软件，如：PHPstorm、IntelliJ IDEA、Golang、Pycharm等 
 
-**2、点击activation code**
+### 2、点击activation code
 
 <div>
   <img style="display:block; margin:0 auto;width:50%;" src="http://md.taojingling.cn/20200328171056.png" />
 </div>
 
-**3、复制粘贴如下激活码，点击OK**
+### 3、复制粘贴如下激活码，点击OK
 
 ::: danger
 提示：<br>
-1、因为知识产权风险，激活码请进群下载，群号：666666。<br>
+1、因为知识产权风险，激活码请进群免费下载，群号：323784710。<br>
 2、目前有效期到2021年1月份，本激活码会不断更新。<br>
 3、以下激活码为免修改hosts文件 ，如果修改过请删除网址再激活。
 :::
 
-**4、激活码不可用？**
+### 4、激活码不可用？
 
 本激活码不能用于官网最新的版本，只针对2019年及以前的phpstorm版本，若还是不行需修改hosts文件。
 

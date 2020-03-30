@@ -33,12 +33,14 @@ isShowComments: false
 
 #### <u>[👉 账号激活](http://www.baidu.com "注册服务器激活")</u>
 
-**1、先下载群文件jetbrains-agent.jar，把它放到你认为合适的文件夹内，文件夹名称任意取名，符合规范即可。**  
+### 1、先下载群文件jetbrains-agent.jar，把它放到你认为合适的文件夹内。
+
+<i style="color:gray;">文件夹名称任意取名，符合规范即可。</i>
 
 ::: danger
 注意：<br>
 1、不能放在中文目录、隔空目录、特殊符号目录中。<br>
-2、jar包请进群下载，群号：66666。
+2、jar包请进群免费下载，群号：323784710。
 :::
 
 <div style="margin:0 auto; ">
@@ -54,13 +56,13 @@ isShowComments: false
 
 F:\phpstorm\jetbrains-agent.jar
 
-**2、启动IDE，如需注册，选择：试用（Evaluate for free）进入IDE**
+### 2、启动IDE，如需注册，选择：试用（Evaluate for free）进入IDE
 
-**3、点击你要注册的IDE菜单："Configure" 或 "Help" -> "Edit Custom VM Options ..."**
+### 3、点击你要注册的IDE菜单："Configure" 或 "Help" -> "Edit Custom VM Options ..."
 
 *<font color="gray">&emsp;&ensp;如果提示是否要创建文件，点击"Yes"。</font>*
 
-**4、在打开的vmoptions编辑窗口最后一行添加：-javaagent:F:\phpstorm\jetbrains-agent.jar**
+### 4、在打开的vmoptions编辑窗口最后一行添加：-javaagent:F:\phpstorm\jetbrains-agent.jar
 
 示例：
 ```
@@ -71,7 +73,7 @@ linux:    -javaagent:/home/自定义文件夹/jetbrains-agent.jar
 windows:  -javaagent:F:\自定义文件夹\jetbrains-agent.jar
 ```
 
-**5、重启IDE**
+### 5、重启IDE
 
 ::: warning
 注意：如果打不开软件，可能是路径填写不正确。<br>
@@ -82,15 +84,18 @@ windows:  -javaagent:F:\自定义文件夹\jetbrains-agent.jar
 2、卸载软件，重新安装。
 :::
 
-**6、点击IDE菜单 "Help" -> "Register..." 或 "Configure" -> "Manage License..."**
+### 6、点击IDE菜单 
+`"Help" -> "Register..."`
+ 或 
+ `"Configure" -> "Manage License..."`
 
-**7、选择License server方式，地址填入：http://fls.jetbrains-agent.com**
+### 7、选择License server方式，地址填入：http://fls.jetbrains-agent.com
 
 <div>
   <img style="display:block; margin:0 auto; width:50%;" src="http://img.taojingling.cn/20200328125315.png"/>
 </div>
 
-点击："Activate"，按照以下图片操作-操作完毕-重启IDE，激活完成。
+点击："Activate"，按照图片操作-操作完毕-重启IDE，激活完成。
 
 **以上方法支持：**
 
