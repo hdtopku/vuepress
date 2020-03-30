@@ -27,6 +27,10 @@ module.exports = {
       notify: true,
       visitor: true
     },
+    record: '闽ICP备19012238号',
+    recordLink: 'http://www.beian.miit.gov.cn',
+    // cyberSecurityRecord: '公安部备案文案',
+    // cyberSecurityLink: 'https://boke112.com/goto/beian',
     // 项目开始时间，只填写年份
     startYear: '2017'
   },
