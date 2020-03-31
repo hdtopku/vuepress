@@ -16,8 +16,8 @@ module.exports = {
     sidebar: sidebar.sidebarCn,
     nav: [
       { text: "Home", link: "/" },
-      { text: "Jet", link: "/Jet/introduction" },
-      { text: "External", link: "https://google.com" }
+      { text: "Jet", link: "/Jet/account" },
+      // { text: "External", link: "https://google.com" }
     ],
     noFoundPageByTencent: false,
     valineConfig: {

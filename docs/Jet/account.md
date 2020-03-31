@@ -29,6 +29,10 @@ isShowComments: false
 
 ## <font color="red">二、通过稳定的独立账号激活</font>
 
+#### [👉 激活码激活](/Jet/cdkey "激活码激活")
+
+#### [👉 注册服务器激活](/Jet/server "注册服务器激活")
+
 ### 1、从IntelliJ IDEA官方下载http://www.jetbrains.com/idea/
 
 ### 2、安装后直接填入账号密码激活，有效期至2021年1月29日。
@@ -66,6 +70,3 @@ MAC:
 
 <i style="color:gray;">这是IntelliJ 全家桶账号,仅供学习测试时使用,请大家积极支持正版。</i> 
 
-#### [→激活码激活](www.baidu.com "激活码激活")
-
-#### [→注册服务器激活](www.baidu.com "注册服务器激活")

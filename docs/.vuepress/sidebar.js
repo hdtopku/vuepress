@@ -7,7 +7,9 @@ const sidebarCn = [
       ["/Jet/cdkey", "激活码激活"],
       ["/Jet/account", "账号激活"],
       ["/Jet/server", "注册服务器激活"],
-      ["/Jet/codes", "历史激活码"]
+      ["/Jet/codes", "历史激活码"],
+      ["/Jet/idea", "IntelliJ IDEA 注册码"],
+      ["/Jet/idea2", "IDEA激活破解教程（永久）"]
     ]
   },
   {
