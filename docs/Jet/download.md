@@ -1,5 +1,5 @@
 ---
-title: Jetbrains全家桶下载
+title: WebStorm|PhpStorm|PyCharm|CLion|GoLan等jetbrains系列全家桶最新版下载
 meta:
   - name: description
     content: IntelliJ IDEA Pycharm PHPStorm WebStorm Goland Clion Jetbrains 软件下载
