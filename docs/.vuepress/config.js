@@ -1,7 +1,7 @@
 const sidebar = require("./sidebar");
 
 module.exports = {
-  title: '淘精灵',
+  title: '激活码',
   description: '专注互联网分享',
   plugins: [
     ["@vuepress/back-to-top"],
@@ -11,7 +11,7 @@ module.exports = {
   ],
   theme: "reco",
   themeConfig: {
-    author: "淘精灵",
+    author: "idea激活码",
     logo: '/images/head.jpeg',
     sidebar: sidebar.sidebarCn,
     nav: [
