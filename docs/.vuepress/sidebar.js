@@ -9,7 +9,8 @@ const sidebarCn = [
       ["/Jet/server", "注册服务器激活"],
       ["/Jet/codes", "历史激活码"],
       ["/Jet/idea", "IntelliJ IDEA 注册码"],
-      ["/Jet/idea2", "IDEA激活破解教程（永久）"]
+      ["/Jet/idea2", "IDEA激活破解教程（永久）"],
+      ["/Jet/tutorial", "IntelliJ IDEA 使用教程"]
     ]
   },
   {
@@ -28,7 +29,8 @@ const sidebarCn = [
     sidebarDepth: 1, // 可选的, 默认值是 1
     children: [
       ["/Jet/ajax", "ajax相关-get和post请求的区别"],
-      ["/Jet/php", "php的composer命令"]
+      ["/Jet/php", "php的composer命令"],
+      ["/Jet/keyboard", "IntelliJ快捷键说明"]
     ]
   }
 ];
