@@ -2,7 +2,7 @@ const sidebar = require("./sidebar");
 
 module.exports = {
   title: '激活码',
-  description: '专注互联网分享',
+  description: '永久免费提供Intellij idea激活码,pycharm激活码,phpstorm激活码,webstorm激活码,clion,golang等jetbrains相关产品激活码。',
   plugins: [
     ["@vuepress/back-to-top"],
     ["@vuepress/nprogress"],
