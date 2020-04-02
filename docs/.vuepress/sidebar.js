@@ -10,7 +10,8 @@ const sidebarCn = [
       ["/Jet/codes", "历史激活码"],
       ["/Jet/idea", "IntelliJ IDEA 注册码"],
       ["/Jet/idea2", "IDEA激活破解教程（永久）"],
-      ["/Jet/tutorial", "IntelliJ IDEA 使用教程"]
+      ["/Jet/tutorial", "IntelliJ IDEA 使用教程"],
+      ["/Jet/pycharm", "pycharm永久激活"]
     ]
   },
   {
@@ -30,7 +31,8 @@ const sidebarCn = [
     children: [
       ["/Jet/ajax", "ajax相关-get和post请求的区别"],
       ["/Jet/php", "php的composer命令"],
-      ["/Jet/keyboard", "IntelliJ快捷键说明"]
+      ["/Jet/keyboard", "IntelliJ快捷键说明"],
+      ["/Jet/distinction", "IJ商业版与免费版区别"]
     ]
   }
 ];
