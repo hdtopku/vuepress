@@ -45,5 +45,8 @@ module.exports = {
       }
     ]
   ],
+  markdown: {
+    lineNumbers: true
+  },
   port: 10606
 };
