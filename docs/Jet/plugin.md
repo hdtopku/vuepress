@@ -32,17 +32,23 @@ isShowComments: false
 
 #### 1、Jrebel激活
 
-进群获取
+::: danger
+提示：<br>
+因为知识产权风险，插件及激活请进群：323784710。
+:::
 
 #### 2、MybatisCodeHelper激活
 
-百度网盘链接点击我  提取码: gsw4
+<a href="https://pan.baidu.com/share/init?surl=5eQ6w-a75sa32FM1G1MKPw">百度网盘链接点击我</a> 提取码: gsw4
 
-第一步：下载完成之后放到`IntelliJ IDEA 2019.3.2-->plugins`文件夹下
+第一步：下载完成之后放到`IntelliJ IDEA 2019.3.2-->plugins`文件夹下。
 
-第二步：根据下面步骤找到刚刚放入的文件点击确定
+第二步：根据下面步骤找到刚刚放入的文件点击确定。
+
+<img src="https://user-gold-cdn.xitu.io/2020/2/9/17027b6ba8b9e25c?imageView2/0/w/1280/h/960/format/webp/ignore-error/1" />
 
 第三步：重启idea之后点击`Tools-->MybatisCodeHelper-->Activation-OfflineActivation`，在offline key框输入任意字符串，点击activation就可以完成啦！！！
 
 第四步：这一步不算关键，是我更新了之后发现我写SQL语句的时候没有提醒了，最后发现数据库类型忘记定义了，点击`settings-->Dialects`,设置之后你的SQL就会有自动提醒啦，当然你必须在idea里面配置自己的数据库才可以必须精确地库！！！
 
+<img src="https://user-gold-cdn.xitu.io/2020/2/9/17027bd78483f23a?imageView2/0/w/1280/h/960/format/webp/ignore-error/1" />
