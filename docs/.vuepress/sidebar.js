@@ -22,6 +22,7 @@ const sidebarCn = [
       ["/Jet/download", "全家桶最新下载地址"],
       ["/Jet/news1", "激活码到期之后乱象"],
       ["/Jet/lang", "JetBrains系列汉化包"],
+      ["/Jet/plugin", "idea实用插件"],
       {
         "title": "新闻",
         ollapsable: true, // 可选的, 默认值是 true,
