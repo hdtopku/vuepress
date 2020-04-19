@@ -45,6 +45,14 @@ const sidebarCn = [
     ]
   },
   {
+    title: "热点新闻",
+    collapsable: true, // 可选的, 默认值是 true,
+    sidebarDepth: 1, // 可选的, 默认值是 1
+    children: [
+      ["/news/0419b", "如何看待pandownload作者被执法"]
+    ]
+  },
+  {
     title: "leetcode",
     collapsable: true, // 可选的, 默认值是 true,
     sidebarDepth: 1, // 可选的, 默认值是 1
