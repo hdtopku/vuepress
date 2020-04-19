@@ -22,15 +22,7 @@ const sidebarCn = [
       ["/Jet/download", "全家桶最新下载地址"],
       ["/Jet/news1", "激活码到期之后乱象"],
       ["/Jet/lang", "JetBrains系列汉化包"],
-      ["/Jet/plugin", "idea实用插件"],
-      {
-        "title": "新闻",
-        ollapsable: true, // 可选的, 默认值是 true,
-        sidebarDepth: 1, // 可选的, 默认值是 1
-        children: [
-          ["/Jet/news/1", "太赞了，IDEA2020开始为不懂english的程序员提供支持"]
-        ]
-      },
+      ["/Jet/plugin", "idea实用插件"]
     ]
   },
   {
@@ -49,7 +41,9 @@ const sidebarCn = [
     collapsable: true, // 可选的, 默认值是 true,
     sidebarDepth: 1, // 可选的, 默认值是 1
     children: [
-      ["/news/0419b", "如何看待pandownload作者被执法"]
+      ["/news/0419a", "这辈子都不可能打工"],
+      ["/news/0419b", "如何看待pandownload作者被执法"],
+      ["/news/0419c", "太赞了，IDEA2020开始为不懂english的程序员提供支持"]
     ]
   },
   {
