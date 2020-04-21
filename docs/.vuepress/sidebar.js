@@ -43,7 +43,9 @@ const sidebarCn = [
     children: [
       ["/news/0419a", "这辈子都不可能打工"],
       ["/news/0419b", "如何看待pandownload作者被执法"],
-      ["/news/0419c", "太赞了，IDEA2020开始为不懂english的程序员提供支持"]
+      ["/news/0419c", "太赞了，IDEA2020开始为不懂english的程序员提供支持"],
+      ["/news/0421a", "天猫总裁蒋凡出轨女网红张大奕？"],
+      ["/news/0421b", "太赞了，IDEA2020开始为不懂english的程序员提供支持"]
     ]
   },
   {
