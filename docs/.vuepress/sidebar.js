@@ -49,6 +49,15 @@ const sidebarCn = [
     ]
   },
   {
+    title: "offer",
+    collapsable: true, // 可选的, 默认值是 true,
+    sidebarDepth: 1, // 可选的, 默认值是 1
+    children: [
+      ["/offer/1", "1. 二维数组中的查找"],
+      ["/offer/2", "2. 替换空格"],
+    ]
+  },
+  {
     title: "leetcode",
     collapsable: true, // 可选的, 默认值是 true,
     sidebarDepth: 1, // 可选的, 默认值是 1
