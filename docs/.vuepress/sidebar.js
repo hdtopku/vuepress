@@ -55,6 +55,7 @@ const sidebarCn = [
     children: [
       ["/offer/1", "1. 二维数组中的查找"],
       ["/offer/2", "2. 替换空格"],
+      ["/offer/3", "3. 从尾到头打印表"],
     ]
   },
   {
