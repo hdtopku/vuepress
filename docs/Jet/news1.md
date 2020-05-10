@@ -1,5 +1,29 @@
 JetBrains旗下有多款IDE（集成开发环境）（如：IntelliJ、WebStorm、PyCharm等）在各编程领域几乎都占据了垄断地位。今日，疑似JetBrains严查盗版破解用户，导致大量以破解方式获取使用权限的用户，无法继续使用。
 
+<!-- QQ卡片 -->
+<div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
+  <img style="width:25%;padding-top:15px;" src="http://img.taojingling.cn/WechatIMG60.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
+
+  <div style="display:flex;flex-direction:column;justify-content:space-around;">
+    <div style="font-size:1.2rem;font-weight:bold;">
+      <div>因版权问题或未及时更新，</div>
+      <div>遇到任何问题请进群交流。</div>
+    </div>
+    <div style="padding-left:12%;position:relative;">
+      <div>
+      <img style="width:6%;position:relative;top:3px;cursor:pointer;" src="https://i.loli.net/2019/11/23/U3qbMEuC9n6YBRA.png" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e', '_blank');" />
+      <a href="//shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">909335010</a>（新群）
+      </div>
+      <div>
+      <br>
+      <img style="width:6%;position:relative;top:3px;cursor:pointer;" src="https://i.loli.net/2019/11/23/U3qbMEuC9n6YBRA.png" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e', '_blank');" />
+      <a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">323784710</a>
+      <p>所有群里信息同步，多加拒绝入群</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div>
 <img style="display:block; margin:0 auto;" src="https://oscimg.oschina.net/oscnet/up-48bd7119fec54eb7f7abd8788f614c83351.png"/>
 </div>
