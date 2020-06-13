@@ -13,7 +13,7 @@ isShowComments: false
 
 <!-- QQ卡片 -->
 <div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
-  <img style="width:25%;padding-top:15px;" src="http://img.taojingling.cn/WechatIMG60.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
+  <img style="width:25%;padding-top:15px;" src="/images/jetbrains/jetbrains2.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
 
   <div style="display:flex;flex-direction:column;justify-content:space-around;">
     <div style="font-size:1.2rem;font-weight:bold;">
@@ -53,10 +53,8 @@ isShowComments: false
 
 第二步：根据下面步骤找到刚刚放入的文件点击确定。
 
-<img src="https://user-gold-cdn.xitu.io/2020/2/9/17027b6ba8b9e25c?imageView2/0/w/1280/h/960/format/webp/ignore-error/1" />
 
 第三步：重启idea之后点击`Tools-->MybatisCodeHelper-->Activation-OfflineActivation`，在offline key框输入任意字符串，点击activation就可以完成啦！！！
 
 第四步：这一步不算关键，是我更新了之后发现我写SQL语句的时候没有提醒了，最后发现数据库类型忘记定义了，点击`settings-->Dialects`,设置之后你的SQL就会有自动提醒啦，当然你必须在idea里面配置自己的数据库才可以必须精确地库！！！
 
-<img src="https://user-gold-cdn.xitu.io/2020/2/9/17027bd78483f23a?imageView2/0/w/1280/h/960/format/webp/ignore-error/1" />

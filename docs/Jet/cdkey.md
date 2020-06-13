@@ -15,7 +15,7 @@ isShowComments: false
 
 <!-- QQ卡片 -->
 <div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
-  <img style="width:25%;padding-top:15px;" src="http://img.taojingling.cn/WechatIMG60.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
+  <img style="width:25%;padding-top:15px;" src="/images/jetbrains/jetbrains2.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
 
   <div style="display:flex;flex-direction:column;justify-content:space-around;">
     <div style="font-size:1.2rem;font-weight:bold;">
@@ -53,10 +53,6 @@ E70JHCOV2H-eyJsaWNlbnNlSWQiOiJFNzBKSENPVjJIIiwibGljZW5zZWVOYW1lIjoi5bGx5Lic55CG5
 ### 1、打开Jetbrains软件，如：PHPstorm、IntelliJ IDEA、Golang、Pycharm等 
 
 ### 2、点击activation code
-
-<div>
-  <img style="display:block; margin:0 auto;width:50%;" src="http://md.taojingling.cn/20200328171056.png" />
-</div>
 
 ### 3、复制粘贴如下激活码，点击OK
 

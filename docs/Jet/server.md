@@ -13,7 +13,7 @@ isShowComments: false
 
 <!-- QQ卡片 -->
 <div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
-  <img style="width:25%;padding-top:15px;" src="http://img.taojingling.cn/WechatIMG60.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
+  <img style="width:25%;padding-top:15px;" src="/images/jetbrains/jetbrains2.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
 
   <div style="display:flex;flex-direction:column;justify-content:space-around;">
     <div style="font-size:1.2rem;font-weight:bold;">
@@ -51,18 +51,6 @@ isShowComments: false
 2、jar包请进群免费下载，群号：323784710。
 :::
 
-<div style="margin:0 auto; ">
-<img style="width:44%;margin-right:10%;" src="http://img.taojingling.cn/20200328125532.png" />
-<img style="width:44%;" src="http://img.taojingling.cn/WechatIMG43.png" />
-<span style="color:gray;font-size:12px;width:47%;padding:20%;">MAC</span>
-<span style="color:gray;font-size:12px;width:47%;padding-left:32%;">WIN</span>
-</div>
-
-<div style="margin:0 auto; width:50%;">
-
-</div>
-
-F:\phpstorm\jetbrains-agent.jar
 
 ### 2、启动IDE，如需注册，选择：试用（Evaluate for free）进入IDE
 
@@ -98,10 +86,6 @@ windows:  -javaagent:F:\自定义文件夹\jetbrains-agent.jar
  `"Configure" -> "Manage License..."`
 
 ### 7、选择License server方式，地址填入：http://fls.jetbrains-agent.com
-
-<div>
-  <img style="display:block; margin:0 auto; width:50%;" src="http://img.taojingling.cn/20200328125315.png"/>
-</div>
 
 点击："Activate"，按照图片操作-操作完毕-重启IDE，激活完成。
 

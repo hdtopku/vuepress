@@ -11,7 +11,7 @@ isShowComments: false
 
 <!-- QQ卡片 -->
 <div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
-  <img style="width:25%;padding-top:15px;" src="http://img.taojingling.cn/WechatIMG60.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
+  <img style="width:25%;padding-top:15px;" src="/images/jetbrains/jetbrains2.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
 
   <div style="display:flex;flex-direction:column;justify-content:space-around;">
     <div style="font-size:1.2rem;font-weight:bold;">
@@ -41,26 +41,20 @@ isShowComments: false
 
 1、若提示是否删除老版本，选择删除老版本（若是第一次安装，忽略此步）。
 
-<img src="http://md.taojingling.cn/3.png" />
 
 2、继续点击下一步，这里笔者的电脑是 64 位的，顺便将 64 位的 IDEA 启动图标生成到桌面上。
 
-<img src="http://md.taojingling.cn/4.png" />
 
 
-4、点击下一步，这里又弹出卸载老版本，选择将老版本的缓存、本地历史也删除掉：
-
-<img src="http://md.taojingling.cn/5.png" />
+4、点击下一步，这里又弹出卸载老版本，选择将老版本的缓存、本地历史也删除掉
 
 5、继续点击下一步，启动 IDEA 2019.3, 启动成功后，可以看到 IDEA 新的欢迎界面如下:
 
-<img src="http://md.taojingling.cn/6.png" />
 
 ### 三、开始激活
 
 如下图所示，我们先选择免费试用 30 天，先进去再说:
 
-<img src="http://md.taojingling.cn/7.png" />
 
 ### 四、配置破解补丁
 进去过后，我们随便建个项目，点击菜单栏 `Help -> Edit Custom VM Options`:
@@ -69,11 +63,9 @@ isShowComments: false
 注意：切记一定要通过 IDEA 来修改 .vmoptions 文件，不要手动直接去修改。
 :::
 
-<img src="http://md.taojingling.cn/8.png" />
 
 下载破解补丁成功以后，推荐将它放置在 IDEA 的安装目录 /bin 路径下，防止后面被自己误删:
 
-<img src="http://md.taojingling.cn/9.png" />
 
 ::: danger
 注意：<br>
@@ -81,7 +73,6 @@ isShowComments: false
 2、页面提取人数太多，导致破解补丁容易被封，为限制人数，请进群免费提取补丁，群号：<a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">323784710</a>。
 :::
 
-<img src="http://md.taojingling.cn/10.png" />
 
 在 .vmoptions 文件中配置我们补丁放置的全路径位置。
 
@@ -99,9 +90,6 @@ isShowComments: false
 
 重启完成后，开始填入激活码，点击菜单栏 `Help -> Register`:
 
-<img src="http://md.taojingling.cn/11.png" />
-
-<img src="http://md.taojingling.cn/12.png" />
 
 #### <u>[👉点击获取历史激活码](/Jet/codes "历史激活码")</u>
 
@@ -109,9 +97,8 @@ isShowComments: false
 注意：激活码需搭配上面的破解补丁一起使用才有效！！！
 :::
 
-点击激活:
+点击激活
 
-<img src="http://md.taojingling.cn/13.png" />
 
 可以看到，已经激活到 2089 年了，开心编码吧~
 

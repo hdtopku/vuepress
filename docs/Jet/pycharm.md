@@ -11,7 +11,7 @@ isShowComments: false
 
 <!-- QQ卡片 -->
 <div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
-  <img style="width:25%;padding-top:15px;" src="http://img.taojingling.cn/WechatIMG60.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
+  <img style="width:25%;padding-top:15px;" src="/images/jetbrains/jetbrains2.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
 
   <div style="display:flex;flex-direction:column;justify-content:space-around;">
     <div style="font-size:1.2rem;font-weight:bold;">
@@ -37,9 +37,6 @@ isShowComments: false
 
 一般一年多需要激活一次，在License Activation激活界面，选择Active，选择Activation code，粘贴如下激活码，点击ok。
 
-<div>
-  <img style="display:block; margin:0 auto;width:50%;" src="http://md.taojingling.cn/20200328171056.png" />
-</div>
 
 #### <u>[👉点击获取历史激活码](/Jet/codes "历史激活码")</u>
 
@@ -53,17 +50,11 @@ isShowComments: false
 
 2、首次安装的Pycharm，需要点击激活窗口的Evaluate for free免费试用，然后再创建一个空项目进入主页窗口。
 
-<img style="display:block; margin:0 auto;width:50%;" src="https://upload-images.jianshu.io/upload_images/18207345-ffeeecc526676577.png?imageMogr2/auto-orient/strip|imageView2/2/w/390/format/webp" />
 
 3、在菜单栏Help中选择Edit Custom VM Options …
 
-<img style="display:block; margin:0 auto;width:50%;" src="https://upload-images.jianshu.io/upload_images/18207345-1e1c7deea66d53d3.png?imageMogr2/auto-orient/strip|imageView2/2/w/624/format/webp" />
 
 在弹框中选择Create。
-
-<img style="display:block; margin:0 auto;width:50%;" src="https://upload-images.jianshu.io/upload_images/18207345-d22976b1f6ef501c.png?imageMogr2/auto-orient/strip|imageView2/2/w/454/format/webp" />
-
-<img src="https://upload-images.jianshu.io/upload_images/18207345-43100654d1123c9d.png?imageMogr2/auto-orient/strip|imageView2/2/w/689/format/webp" />
 
 在最后一行添加：
 
@@ -71,11 +62,9 @@ isShowComments: false
 
 4、修改完成后，重启Pycharm，点击菜单栏中的“Help” -> “Register”，输入激活码完成完成激活，这里的激活码与方法一种激活码不同(进群<a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">323784710</a>免费获取)。
 
-<img style="display:block; margin:0 auto;width:50%;" src="https://upload-images.jianshu.io/upload_images/18207345-4a9a6d0bbb28c158.png?imageMogr2/auto-orient/strip|imageView2/2/w/456/format/webp" />
 
 5、查看有效期的步骤：点击：Help->About，这里可以看到你的pycharm有效期到2089年了，是不是soeasy。
 
-<img style="display:block; margin:0 auto;width:50%;" src="https://upload-images.jianshu.io/upload_images/18207345-5763229a8b0672ef.png?imageMogr2/auto-orient/strip|imageView2/2/w/637/format/webp" />
 
 #### 声明
 
