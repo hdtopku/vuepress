@@ -23,7 +23,7 @@ isShowComments: false
     <div style="padding-left:12%;position:relative;">
       <div>
       <img style="width:6%;position:relative;top:3px;cursor:pointer;" src="https://i.loli.net/2019/11/23/U3qbMEuC9n6YBRA.png" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e', '_blank');" />
-      <a href="//shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">909335010</a>（新群）
+      <a href="//shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">659892516</a>（新群）
       </div>
       <div>
       <br>
@@ -42,7 +42,7 @@ isShowComments: false
 
 ::: danger
 提示：<br>
-因为知识产权风险，插件及激活请进群：323784710。
+因为知识产权风险，插件及激活请进群：909335010。
 :::
 
 #### 2、MybatisCodeHelper激活
