@@ -7,8 +7,8 @@ meta:
     content: intellij|Pycharm|PHPStorm|Goland|Clion|idea|激活码|全家桶|账号激活|通用教程|License|Server|激活教程
 tags:
   - JetBrains
-date: 2020-03-28
 isShowComments: false
+date: 2020-06-22
 ---
 
 # 全家桶免费激活教程

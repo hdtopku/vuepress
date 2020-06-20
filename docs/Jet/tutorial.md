@@ -5,7 +5,6 @@ meta:
     content: IntelliJ IDEA 使用教程(2019图文版) -- 从入门到上瘾
   - name: keywords
     content: IntelliJ|激活|最新版|图文|IDEA|idea|破解教程|有效|使用教程
-date: 2020-03-28
 isShowComments: false
 ---
 

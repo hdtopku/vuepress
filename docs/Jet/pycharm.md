@@ -5,7 +5,6 @@ meta:
     content: Pycharm2020最新激活码汇总|pycharm永久激活教程（亲测有效）
   - name: keywords
     content: pycharm|激活|最新版|IntelliJ|IDEA|idea|破解教程|有效|永久
-date: 2020-03-28
 isShowComments: false
 ---
 

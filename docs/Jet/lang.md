@@ -5,7 +5,6 @@ meta:
     content: JetBrains系列最新版汉化包，亲测有效
   - name: keywords
     content: intellij|Pycharm|PHPStorm|Goland|Clion|idea|汉化包|汉化|全家桶|通用教程
-date: 2020-03-28
 isShowComments: false
 ---
 

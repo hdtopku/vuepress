@@ -5,7 +5,6 @@ meta:
     content: IntelliJ IDEA 2019.3 永久激活破解教程（亲测有效）
   - name: keywords
     content: 2089年，|激活|最新版|IntelliJ|IDEA|idea|破解教程|有效
-date: 2020-03-28
 isShowComments: false
 ---
 

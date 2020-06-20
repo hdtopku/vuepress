@@ -5,7 +5,6 @@ meta:
     content: 最全解释ajax相关-get和post请求的区别
   - name: keywords
     content: ajax|get|post
-date: 2020-03-28
 isShowComments: false
 ---
 

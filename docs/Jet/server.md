@@ -5,7 +5,6 @@ meta:
     content: 最新版idea全家桶激活码jetbrains稳定账号激活教程
   - name: keywords
     content: intellij|Pycharm|PHPStorm|Goland|Clion|idea|激活码|全家桶|账号激活|通用教程|License|Server|激活教程
-date: 2020-03-28
 isShowComments: false
 ---
 

@@ -5,7 +5,6 @@ meta:
     content: 可激活至2089年，最新版IntelliJ IDEA 2019.3注册码，持续更新~亲测有效~
   - name: keywords
     content: 2089年，|激活|最新版|IntelliJ|IDEA|idea|2019.3注册码|注册码|2020|有效|更新
-date: 2020-03-28
 isShowComments: false
 ---
 
