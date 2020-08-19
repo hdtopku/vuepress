@@ -8,7 +8,7 @@ meta:
 tags:
   - JetBrains
 isShowComments: false
-date: 2020-06-22
+date: 2020-09-22
 ---
 
 # 全家桶免费激活教程
