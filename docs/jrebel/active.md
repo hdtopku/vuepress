@@ -6,7 +6,7 @@ isShowComments: false
 # Java 热部署插件 JRebel 安装及使用
 
 ::: danger
-群主有偿提供jrebel激活码，需要的请联系群主购买
+有偿提供jrebel激活码，需要的请qq联系购买
 q：1450948930
 :::
 
