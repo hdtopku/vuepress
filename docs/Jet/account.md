@@ -5,12 +5,16 @@ isShowComments: false
 isShowTitleInHome: false
 navbar: false
 author: 林雄辉
+prev: Jet/account.html
+next: Jet/account.html
 ---
 
 # Java 热部署插件 JRebel 安装及使用
 
 ::: danger
 jrebel 版权归 林雄辉 所有
+
+【温馨提醒】本商品尚属测试阶段，免费开放给广大用户试用，不允许其他任何人以任何形式进行收费，否则权利人将追究到底。
 :::
 
 ## JRebel 介绍
@@ -132,5 +136,5 @@ Mac OS 用这个：
 ## 正版激活
 
 ::: danger
-唯一正版激活方式，联系 jrebel 开发者 林雄辉，其他激活方式均为盗版。
+唯一正版激活方式，联系 jrebel 开发者 林雄辉 1450948930@qq.com，其他激活方式均为盗版。
 :::
