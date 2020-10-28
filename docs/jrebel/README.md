@@ -1,16 +1,18 @@
 ---
 sidebar: false
-date: 2015-03-28
+date: 2019-12-25
 isShowComments: false
 isShowTitleInHome: false
 navbar: false
-author: 林雄辉
+prev: Jet/account.html
+next: Jet/account.html
 ---
 
 # Java 热部署插件 JRebel 安装及使用
 
 ::: danger
-jrebel 版权归林雄辉所有
+群主有偿提供jrebel激活码，需要的请联系群主购买
+q：1450948930
 :::
 
 ## JRebel 介绍
@@ -22,6 +24,8 @@ jrebel 版权归林雄辉所有
 ## JRebel 安装
 
 JRebel 的安装方法有两种， 一种是直接在 Tomcat 启动参数上面加上 JRebel 的参数， 另外一种是以插件的形式装到 IntelliJ IDEA 上， 比较推荐后者。
+
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603885149210&di=e3e664c96934409ea095bd30b1e22c45&imgtype=0&src=http%3A%2F%2Fimg2020.cnblogs.com%2Fblog%2F1756476%2F202008%2F1756476-20200804100350223-89810247.png"/>
 
 ### 第一种安装方法：在 Tomcat 启动参数上加参数
 
@@ -127,8 +131,3 @@ Mac OS 用这个：
   [17]: ./images/xxviii-jrebel-setup-17.jpg "xxviii-jrebel-setup-17.jpg"
   [18]: ./images/xxviii-jrebel-setup-18.jpg "xxviii-jrebel-setup-18.jpg"
 
-## 正版激活
-
-::: danger
-唯一正版激活方式，联系 jrebel 开发者 林雄辉，其他激活方式均为盗版。
-:::
