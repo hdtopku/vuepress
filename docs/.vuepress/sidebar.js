@@ -15,6 +15,12 @@ const sidebarCn = [
     ]
   },
   {
+    title: "jrebel",
+    collapsable: true,
+    sidebarDepth: 1,
+    children: [["/Jet/cdkey", "激活码激活"], ["/jrebel", "jrebel激活"]]
+  },
+  {
     title: "jet其他",
     collapsable: true, // 可选的, 默认值是 true,
     sidebarDepth: 1, // 可选的, 默认值是 1
@@ -56,7 +62,7 @@ const sidebarCn = [
     children: [
       ["/offer/1", "1. 二维数组中的查找"],
       ["/offer/2", "2. 替换空格"],
-      ["/offer/3", "3. 从尾到头打印表"],
+      ["/offer/3", "3. 从尾到头打印表"]
     ]
   },
   {
