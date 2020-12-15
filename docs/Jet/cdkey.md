@@ -115,12 +115,6 @@ MAC：/private/etc/hosts
 
 * WebStorm 2019.3.1及以下
 
-## VuePress Configuration
-
-Will do user authorization verify in every document
-
-- If not authorized, show login Modal dialog
-- If authorized, going to visit vuepress documentation
 
 <script>
 export default {
