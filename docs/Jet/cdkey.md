@@ -11,6 +11,10 @@ isShowComments: false
 date: 2020-10-22
 ---
 
+<template>
+<button type="button" @click="clear" style="padding: 10px"><span style="color: green">游客，</span>退出登录</button>
+</template>
+
 # 全家桶免费激活教程
 
 <!-- QQ卡片 -->
@@ -24,12 +28,12 @@ date: 2020-10-22
     </div>
     <div style="padding-left:12%;position:relative;">
       <div>
-      <img style="width:6%;position:relative;top:3px;cursor:pointer;" src="https://i.loli.net/2019/11/23/U3qbMEuC9n6YBRA.png" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e', '_blank');" />
+      <img style="width:6%;position:relative;top:3px;cursor:pointer;" src="/images/jetbrains/qq.png" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e', '_blank');" />
       <a href="//shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">865478884</a>（新群）
       </div>
       <div>
       <br>
-      <img style="width:6%;position:relative;top:3px;cursor:pointer;" src="https://i.loli.net/2019/11/23/U3qbMEuC9n6YBRA.png" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e', '_blank');" />
+      <img style="width:6%;position:relative;top:3px;cursor:pointer;" src="/images/jetbrains/qq.png" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e', '_blank');" />
       <a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">659892516</a>
       <p>所有群里信息同步，多加拒绝入群</p>
       </div>
@@ -109,3 +113,21 @@ MAC：/private/etc/hosts
 
 * WebStorm 2019.3.1及以下
 
+## VuePress Configuration
+
+Will do user authorization verify in every document
+
+- If not authorized, show login Modal dialog
+- If authorized, going to visit vuepress documentation
+
+<script>
+export default {
+  methods: {
+    clear () {
+      window.localStorage.clear();
+      alert('已成功退出登录！');
+      window.location.reload();
+    }
+  }
+}
+</script>
