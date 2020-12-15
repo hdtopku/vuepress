@@ -13,7 +13,7 @@ date: 2020-10-22
 
 <template>
 <div style="text-align: center">
-<button type="button" @click="clear" style="padding: 10px"><span style="color: green">游客138725，</span>退出登录</button>
+<button type="button" @click="clear" style="padding: 10px"><span style="color: green">游客{{getRandomInt(138725, 796732)}}，</span>退出登录</button>
 </div>
 </template>
 
@@ -129,6 +129,11 @@ export default {
       window.localStorage.clear();
       alert('已成功退出登录！');
       window.location.reload();
+    },
+    getRandomInt(min, max) {
+      min = Math.ceil(min);
+      max = Math.floor(max);
+      return Math.floor(Math.random() * (max - min)) + min;
     }
   }
 }
