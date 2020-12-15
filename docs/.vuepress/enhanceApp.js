@@ -12,7 +12,7 @@ export default ({
       const doCheck = () => {
         if (!checkAuth()) {
           this.$dlg.modal(Login, {
-            width: 300,
+            width: 500,
             height: 350,
             title: '用户登录',
             singletonKey: 'employee-login',

@@ -12,7 +12,9 @@ date: 2020-10-22
 ---
 
 <template>
-<button type="button" @click="clear" style="padding: 10px"><span style="color: green">游客，</span>退出登录</button>
+<div style="text-align: center">
+<button type="button" @click="clear" style="padding: 10px"><span style="color: green">游客138725，</span>退出登录</button>
+</div>
 </template>
 
 # 全家桶免费激活教程
