@@ -10,7 +10,7 @@
     </div>
     <div class="btn-row">
       <button class="btn" @click="login">
-        注册/登录（点击后，查看完整页面）
+        注册/登录（点击查看完整内容）
       </button>
     </div>
     <hr/>

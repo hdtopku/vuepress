@@ -14,7 +14,7 @@ export default ({
           this.$dlg.modal(Login, {
             width: 300,
             height: 350,
-            title: 'Employee login',
+            title: '用户登录（游客登录：admin|admin）',
             singletonKey: 'employee-login',
             maxButton: false,
             closeButton: false,
