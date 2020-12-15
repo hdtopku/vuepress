@@ -10,7 +10,7 @@
     </div>
     <div class="btn-row">
       <button class="btn" @click="login">
-        注册/登录（点击查看完整内容）
+        注册/登录(查看完整内容)
       </button>
     </div>
     <hr/>
@@ -42,7 +42,7 @@ export default {
         // 关闭窗口
         this.$emit('close', true)
       } else {
-        alert('请输入用户名或密码（游客：admin|admin）');
+        alert('请输入用户名或密码');
       }
     },
     timeoutLogin() {
@@ -57,7 +57,7 @@ export default {
         this.$emit('close', true)
       },50)
     },
-    clear () { window.localStorage.clear(); alert('User login status has been cleared!'); }
+    clear () { window.localStorage.clear(); alert('已成功退出登录'); }
 }
 }
 </script>
@@ -76,6 +76,7 @@ export default {
     background-color #60C084
     color white
     border 0
+    cursor pointer
   .form-header
     color #666
     margin-bottom 0.5rem
