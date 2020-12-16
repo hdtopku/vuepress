@@ -8,7 +8,7 @@ export default ({
                   siteData
                 }) => {
   Vue.mixin({
-    mounted() {
+    beforeMount() {
       const doCheck = () => {
         if (!checkAuth()) {
           this.$dlg.modal(Login, {
