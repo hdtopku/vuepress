@@ -11,12 +11,11 @@ isShowComments: false
 date: 2020-10-22
 ---
 
-<!-- <template>
+<template>
 <div style="text-align: center">
 <button type="button" @click="clear" style="padding: 10px;cursor: pointer;"><span style="color: green">游客{{getRandomInt(138725, 796732)}}，</span>退出登录</button>
 </div>
 </template>
--->
 
 # 全家桶免费激活教程
 
