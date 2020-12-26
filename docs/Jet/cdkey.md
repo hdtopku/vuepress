@@ -18,7 +18,7 @@ date: 2020-10-22
 </template>
 -->
 
-# 全家桶免费激活教程
+# 全家桶激活教程
 
 <!-- QQ卡片 -->
 <div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
@@ -65,10 +65,32 @@ E70JHCOV2H-eyJsaWNlbnNlSWQiOiJFNzBKSENPVjJIIiwibGljZW5zZWVOYW1lIjoi5bGx5Lic55CG5
 
 ::: danger
 提示：<br>
-1、因为知识产权风险，激活码请进群免费下载，群号：323784710。<br>
+1、因为知识产权风险，激活码请进群下载，群号：323784710。<br>
 2、目前有效期到2021年10月份，本激活码会不断更新。<br>
 3、以下激活码为免修改hosts文件 ，如果修改过请删除网址再激活。
 :::
+
+<!-- QQ卡片 -->
+<div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
+  <img style="width:25%;padding-top:15px;" src="/images/jetbrains/wechat.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
+
+  <div style="display:flex;align-items: center">
+    <div style="font-size:1.2rem;font-weight:bold;width: 100px;">
+      <div>或进QQ群交流。</div>
+    </div>
+    <div style="padding-left:12%;position:relative;">
+      <div>
+      <img style="width:6%;position:relative;top:3px;cursor:pointer;" src="/images/jetbrains/qq.png" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e', '_blank');" />
+      <a href="//shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">865478884</a>（新群）
+      </div>
+      <div>
+      <br>
+      <img style="width:6%;position:relative;top:3px;cursor:pointer;" src="/images/jetbrains/qq.png" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e', '_blank');" />
+      <a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">659892516</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 ### 4、激活码不可用？
 
