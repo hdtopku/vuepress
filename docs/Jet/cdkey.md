@@ -22,7 +22,7 @@ date: 2021-01-02
 
 <!-- QQ卡片 -->
 <div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
-  <img style="width:25%;padding-top:15px;" src="/images/jetbrains/jetbrains2.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
+  <img style="width:25%;padding-top:15px;" src="/images/jetbrains/qqqun.jpg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
 
   <div style="display:flex;flex-direction:column;justify-content:space-around;">
     <div style="font-size:1.2rem;font-weight:bold;">
