@@ -8,7 +8,7 @@ meta:
 tags:
   - JetBrains
 isShowComments: false
-date: 2020-10-22
+date: 2021-01-02
 ---
 
 <!-- <template>
@@ -65,7 +65,7 @@ E70JHCOV2H-eyJsaWNlbnNlSWQiOiJFNzBKSENPVjJIIiwibGljZW5zZWVOYW1lIjoi5bGx5Lic55CG5
 
 ::: danger
 提示：<br>
-1、因为知识产权风险，激活码请进群下载，群号：323784710。<br>
+1、因为知识产权风险，激活码请进群，群号：323784710。<br>
 2、目前有效期到2021年10月份，本激活码会不断更新。<br>
 3、以下激活码为免修改hosts文件 ，如果修改过请删除网址再激活。
 :::

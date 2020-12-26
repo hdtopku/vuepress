@@ -40,12 +40,12 @@ isShowComments: false
 #### <u>[👉点击获取历史激活码](/Jet/codes "历史激活码")</u>
 
 :::danger
-提示：如若失效，请进群免费领取最新激活码，群号：<a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">323784710</a>
+提示：如若失效，请进群领取最新激活码，群号：<a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">323784710</a>
 :::
 
 ### 二、永久激活（推荐使用）
 
-1、下载激活插件：jetbrains-agent.jar（进群免费下载），并将jetbrains-agent.jar放到PyCharm安装目录bin下面，例如`D:\Program Files\JetBrains\PyCharm 2019.1\bin`。
+1、下载激活插件：jetbrains-agent.jar，并将jetbrains-agent.jar放到PyCharm安装目录bin下面，例如`D:\Program Files\JetBrains\PyCharm 2019.1\bin`。
 
 2、首次安装的Pycharm，需要点击激活窗口的Evaluate for free免费试用，然后再创建一个空项目进入主页窗口。
 
@@ -59,7 +59,7 @@ isShowComments: false
 
 `-javaagent:你pycharm的安装目录\jetbrains-agent.jar`
 
-4、修改完成后，重启Pycharm，点击菜单栏中的“Help” -> “Register”，输入激活码完成完成激活，这里的激活码与方法一种激活码不同(进群<a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">323784710</a>免费获取)。
+4、修改完成后，重启Pycharm，点击菜单栏中的“Help” -> “Register”，输入激活码完成完成激活，这里的激活码与方法一种激活码不同(进群<a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">323784710</a>获取)。
 
 
 5、查看有效期的步骤：点击：Help->About，这里可以看到你的pycharm有效期到2089年了，是不是soeasy。

@@ -50,8 +50,8 @@ isShowComments: false
 
 ::: danger
 注意：<br>
-1、补丁全路径中不要包含中文，否则，可能导致破解失败！<br>
-2、页面提取人数太多，导致破解补丁容易被封，为限制人数，请进群免费提取补丁，群号：<a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">323784710</a>。
+补丁全路径中不要包含中文，否则，可能导致破解失败！<br>
+群号：<a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">323784710</a>。
 :::
 
 将它放置到 IDEA安装目录的\bin目录下（位置可随意，放这里是怕误操作删除了破解文件）。

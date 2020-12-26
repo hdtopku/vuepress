@@ -37,7 +37,7 @@ isShowComments: false
 
 ::: danger
 提示：<br>
-因为知识产权风险，汉化包请进群免费下载，群号：<a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">323784710</a>。
+群号：<a href="http://shang.qq.com/wpa/qunwpa?idkey=22ed6bd53a50f9764493ef41746bfb3006123cbe097729a106fee0c46b6e0b9e" style="font-size:1.2rem;text-decoration:underline;color:red;" target="_blank">323784710</a>。
 :::
 
 ### 二、使用

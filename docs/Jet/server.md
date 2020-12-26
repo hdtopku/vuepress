@@ -8,7 +8,7 @@ meta:
 isShowComments: false
 ---
 
-# 全家桶免费激活教程
+# 全家桶激活教程
 
 <!-- QQ卡片 -->
 <div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
@@ -46,8 +46,8 @@ isShowComments: false
 
 ::: danger
 注意：<br>
-1、不能放在中文目录、隔空目录、特殊符号目录中。<br>
-2、jar包请进群免费下载，群号：323784710。
+不能放在中文目录、隔空目录、特殊符号目录中。<br>
+群号：323784710。
 :::
 
 

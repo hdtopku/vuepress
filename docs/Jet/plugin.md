@@ -8,7 +8,7 @@ meta:
 isShowComments: false
 ---
 
-# 全家桶免费激活教程
+# 全家桶激活教程
 
 <!-- QQ卡片 -->
 <div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
