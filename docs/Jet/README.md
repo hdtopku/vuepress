@@ -1,22 +1,22 @@
 ---
-home: false
-actionText: 快速了解 →
-actionLink: /Jet/cdkey
-isShowTitleInHome: false
 title: Pycharm|PHPStorm|WebStorm|Goland Clion intellij idea全家桶 通用教程 License Server 激活教程
-tags:
-  - JetBrains
-  - idea
-  - pycharm
-  - 激活
 meta:
   - name: description
     content: 最新版idea全家桶激活码jetbrains稳定账号激活教程
   - name: keywords
     content: intellij|Pycharm|PHPStorm|Goland|Clion|idea|激活码|全家桶|账号激活|通用教程|License|Server|激活教程
-date: 2021-02-02
+tags:
+  - JetBrains
+isShowComments: false
+date: 2021-01-02
 ---
 
+<!-- <template>
+<div style="text-align: center">
+<button type="button" @click="clear" style="padding: 10px;cursor: pointer;"><span style="color: green">游客{{getRandomInt(138725, 796732)}}，</span>退出登录</button>
+</div>
+</template>
+-->
 
 # 全家桶激活教程
 
