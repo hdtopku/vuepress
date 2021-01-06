@@ -72,11 +72,9 @@ E70JHCOV2H-eyJsaWNlbnNlSWQiOiJFNzBKSENPVjJIIiwibGljZW5zZWVOYW1lIjoi5bGx5Lic55CG5
 
 <!-- QQ卡片 -->
 <div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
-  <img style="width:25%;padding-top:15px;" src="/images/jetbrains/wechat.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
-
   <div style="display:flex;align-items: center">
     <div style="font-size:1.2rem;font-weight:bold;width: 100px;">
-      <div>或进QQ群交流。</div>
+      <div>进QQ群交流。</div>
     </div>
     <div style="padding-left:12%;position:relative;">
       <div>
