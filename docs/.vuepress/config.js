@@ -25,7 +25,7 @@ module.exports = {
       appId: 'UQREJWUE9BHErBak3vFXjxBJ-gzGzoHsz',// your appId
       appKey: '4yKdo2re4cY0yyyb9htwMeVx', // your appKey
       notify: true,
-      visitor: true
+      visitor: false
     },
     record: '闽ICP备19012238号',
     recordLink: 'http://www.beian.miit.gov.cn',
