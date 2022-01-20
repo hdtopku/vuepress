@@ -43,11 +43,13 @@ isShowComments: false
   </div>
 </div>
 
+  
+## <font color="red">一、激活码激活</font>
+
+
 <div style="display:flex;">
 <img style="width:200px" src="/images/jetbrains/wx.png"/>
 </div>
-  
-## <font color="red">一、激活码激活</font>
 
 #### <u>[👉 账号激活](/Jet/account "激活码激活")</u>
 
