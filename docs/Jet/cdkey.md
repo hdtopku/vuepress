@@ -44,7 +44,7 @@ isShowComments: false
 </div>
 
 <div style="display:flex;">
-<img style="width:200px" src="https://cdn.nlark.com/yuque/0/2021/png/12454360/1639990888030-4eeb6665-9b13-412f-a1ba-4eef63986810.png"/>
+<img style="width:200px" src="/images/jetbrains/wx.png"/>
 </div>
   
 ## <font color="red">一、激活码激活</font>
