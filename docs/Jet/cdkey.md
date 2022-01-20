@@ -43,6 +43,10 @@ isShowComments: false
   </div>
 </div>
 
+<div style="display:flex;">
+<img style="width:200px" src="https://cdn.nlark.com/yuque/0/2021/png/12454360/1639990888030-4eeb6665-9b13-412f-a1ba-4eef63986810.png"/>
+</div>
+  
 ## <font color="red">一、激活码激活</font>
 
 #### <u>[👉 账号激活](/Jet/account "激活码激活")</u>
@@ -73,7 +77,7 @@ E70JHCOV2H-eyJsaWNlbnNlSWQiOiJFNzBKSENPVjJIIiwibGljZW5zZWVOYW1lIjoi5bGx5Lic55CG5
 <div style="width:100%;display:flex;justify-content:space-around;border:1px solid #E5E5E4;">
   <img style="width:25%;padding-top:15px;" src="/images/jetbrains/wechat.jpeg" onclick="window.open('http://shang.qq.com/wpa/qunwpa?idkey=ae59f469b427c038c95f118ceeefc6f9eba7a9d90ce9aae72bde58d09cc1013b', '_blank');" />
 
-  <div style="display:flex;align-items: center">
+  <div style="display:flex;align-items: center"> 
     <div style="font-size:1.2rem;font-weight:bold;width: 100px;">
       <div>或进QQ群交流。</div>
     </div>
