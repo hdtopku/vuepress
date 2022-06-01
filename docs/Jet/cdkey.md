@@ -43,7 +43,16 @@ isShowComments: false
   </div>
 </div>
 
-  
+## 阿里云618礼包券
+礼包券：[http://b.nxw.so/1dtAbc](http://b.nxw.so/1dtAbc)
+
+云服务器：[http://b.nxw.so/1HynJY](http://b.nxw.so/1HynJY)
+
+## 腾讯云618礼包券
+礼包券：[https://curl.qcloud.com/got1Yd29](https://curl.qcloud.com/got1Yd29)
+
+云服务器：[https://curl.qcloud.com/4cWyFlp9](https://curl.qcloud.com/4cWyFlp9)
+
 ## <font color="red">一、激活码激活</font>
 
 
