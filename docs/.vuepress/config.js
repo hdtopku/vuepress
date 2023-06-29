@@ -20,17 +20,17 @@ module.exports = {
       // { text: "External", link: "https://google.com" }
     ],
     noFoundPageByTencent: false,
-    valineConfig: {
-      type: '',
-      appId: 'UQREJWUE9BHErBak3vFXjxBJ-gzGzoHsz',// your appId
-      appKey: '4yKdo2re4cY0yyyb9htwMeVx', // your appKey
-      notify: true,
-      visitor: false
-    },
+    // valineConfig: {
+    //   type: '',
+    //   appId: 'UQREJWUE9BHErBak3vFXjxBJ-gzGzoHsz',// your appId
+    //   appKey: '4yKdo2re4cY0yyyb9htwMeVx', // your appKey
+    //   notify: true,
+    //   visitor: false
+    // },
     record: '闽ICP备19012238号',
     recordLink: 'http://www.beian.miit.gov.cn',
-    cyberSecurityRecord: '公安部备案文案',
-    cyberSecurityLink: 'https://boke112.com/goto/beian',
+    // cyberSecurityRecord: '公安部备案文案',
+    // cyberSecurityLink: 'https://boke112.com/goto/beian',
     // 项目开始时间，只填写年份
     startYear: '2017'
   },

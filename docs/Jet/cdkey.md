@@ -153,6 +153,8 @@ MAC：/private/etc/hosts
 * WebStorm 2019.3.1及以下
 
 
+[闽ICP备19012238号](https://beian.miit.gov.cn/)
+
 <script>
 export default {
   methods: {
